@@ -1,0 +1,2 @@
+#..host_name:id_billing:номер_схемы:directory_name  
+db2.ru:1::PERM_DIR
