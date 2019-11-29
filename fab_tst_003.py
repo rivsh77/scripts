@@ -9,26 +9,7 @@ import fabric
 
 env.roledefs = {  
         'billing': [
-                'shanshurova_mv@billing.chel.ertelecom.ru'
-                 ,'shanshurova_mv@billing.chelny.ertelecom.ru'
-                 ,'shanshurova_mv@billing.ekat.ertelecom.ru'
-                 ,'shanshurova_mv@billing.izhevsk.ertelecom.ru'
-                 ,'shanshurova_mv@billing.kirov.ertelecom.ru'
-                 ,'shanshurova_mv@billing.kzn.ertelecom.ru'
-                 ,'shanshurova_mv@billing.nn.ertelecom.ru'
-                 ,'shanshurova_mv@billing.nsk.ertelecom.ru'
-                 ,'shanshurova_mv@billing.omsk.ertelecom.ru'
-                 ,'shanshurova_mv@billing.oren.ertelecom.ru'
-                 ,'shanshurova_mv@billing.penza.ertelecom.ru'
-                 ,'shanshurova_mv@billing.perm.ertelecom.ru'
-                 ,'shanshurova_mv@billing.ryazan.ertelecom.ru'
-                 ,'shanshurova_mv@billing.samara.ertelecom.ru'
-                 ,'shanshurova_mv@billing.spb.ertelecom.ru'
-                 ,'shanshurova_mv@billing.tmn.ertelecom.ru'
-                 ,'shanshurova_mv@billing.ufa.ertelecom.ru'
-                 ,'shanshurova_mv@billing.volgograd.ertelecom.ru'
-                 ,'shanshurova_mv@billing.yola.ertelecom.ru'
-                 ,'shanshurova_mv@billing.hq.ertelecom.ru'
+                'sh@blecom.ru'                 
                  ],
        
         'sa': ['shanshurova_mv@sa.ertelecom.ru'
